@@ -1,0 +1,23 @@
+header {
+    background-color: #8cb5be;
+    /* border: 1px solid red; */
+    padding: 15px;
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a, nav {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #fff;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #66858c;
+}
+
+header i {
+    color: #66858c;
+}
