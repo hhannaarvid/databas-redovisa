@@ -1,3 +1,15 @@
 footer {
-    border: 1px solid red;
+    /* border: 1px solid red; */
+    background-color: #8cb5be;
+    padding: 10px;
+    color: #fff;
+}
+
+footer i {
+    color: #fff;
+    font-size: 1.25rem;
+}
+
+footer i:hover {
+    color: #66858c;
 }
