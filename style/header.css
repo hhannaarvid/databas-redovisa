@@ -16,6 +16,9 @@ nav a, nav {
 
 nav a:hover {
     color: #66858c;
+    border-bottom: 1px solid #66858c;
+    border-top: 1px solid #66858c;
+
 }
 
 header i {
